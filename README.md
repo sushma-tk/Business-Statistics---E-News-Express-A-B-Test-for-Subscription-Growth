@@ -22,6 +22,17 @@ A statistical analysis was performed at a 5% significance level ($\alpha$ = 0.05
 | Does conversion depend on the user's preferred language? | Chi-Square Test of Independence |
 | Is time spent on the new page consistent across different language users? | One-Way ANOVA |
 
+
+# Key Findings & Conclusions
+| Metric | Business Question | Control Group (Old Page) | Treatment Group (New Page) | Statistical Test & Conclusion |
+| :--- | :--- | :--- | :--- | :--- |
+| **Time Spent** | Do users spend more time on the new page? | **4.53 minutes** (Mean) | **6.22 minutes** (Mean) | **Two Sample T-Test:** New page time is significantly higher (P-value = 0.0001). |
+| **Conversion Rate** | Is the conversion rate for the new page higher? | **42%** (21/50 users) | **66%** (33/50 users) | **Two Proportion Z-Test:** New page conversion is significantly higher (P-value = 0.008). |
+
+Other Finding : 
+- Language Independence: There is no significant relationship between a user's preferred language (English, French, or Spanish) and their likelihood of converting.
+- Uniform Engagement: The mean time spent on the new page is statistically the same across all language groups, suggesting the new design is universally engaging.
+
 # Technical Stack
 - Programming: Python
 - Libraries:
