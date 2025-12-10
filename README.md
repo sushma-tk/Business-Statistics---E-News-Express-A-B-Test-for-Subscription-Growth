@@ -30,8 +30,15 @@ A statistical analysis was performed at a 5% significance level ($\alpha$ = 0.05
 | **Conversion Rate** | Is the conversion rate for the new page higher? | **42%** (21/50 users) | **66%** (33/50 users) | **Two Proportion Z-Test:** New page conversion is significantly higher (P-value = 0.008). |
 
 Other Finding : 
-- Language Independence: There is no significant relationship between a user's preferred language (English, French, or Spanish) and their likelihood of converting.
-- Uniform Engagement: The mean time spent on the new page is statistically the same across all language groups, suggesting the new design is universally engaging.
+- **Language Independence**: There is no significant relationship between a user's preferred language (English, French, or Spanish) and their likelihood of converting.
+- **Uniform Engagement**: The mean time spent on the new page is statistically the same across all language groups, suggesting the new design is universally engaging.
+
+# Recommendations 
+- Implement the new landing page to enhance user engagement and increase subscriptions.
+- Prioritize a seamless user experience by ensuring content is easily accessible and navigation is intuitive.
+- Utilize feedbacks to understand user behavior and identify areas for improvement.
+- Incorporate high-quality visuals, videos, and infographics to make content more engaging and easily digestible.
+- Allow users to share articles on social media platforms to increase visibility and drive traffic.
 
 # Technical Stack
 - Programming: Python
